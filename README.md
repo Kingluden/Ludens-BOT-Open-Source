@@ -4,7 +4,7 @@ Open Source do BOT Ludens, para Discord [BETA]
 <h1 align="center">🚀 Ludens BOT 🚀</h1>
 
 <p align="center">
-<img width="65%" src="https://cdn.discordapp.com/attachments/735223386795671594/821578546153652254/Ludens.png">
+<a href="https://discord.com/oauth2/authorize?client_id=734190957939130409&scope=bot&permissions=305425791"><img width="65%" src="https://cdn.discordapp.com/attachments/735223386795671594/821578546153652254/Ludens.png">
 <br>
 
 
@@ -29,4 +29,4 @@ Estou sempre buscando melhorar minhas funcionalidades cada dia mais, portanto, f
 * **Regras e Diretrizes** · Elas são essenciais. Caso você não tenha me utilizado ainda, até a versão v3.6, será necessário aceitar esses Termos. Você poderá aceitar esses termos ao utilizar qualquer comando. Assim que um comando for utilizado, aparecerá uma **[Lista de Regras](https://cdn.discordapp.com/attachments/735223386795671594/826319970316451840/unknown.png)** para você seguir, e, para concordar, basta clicar no emoji da mensagem e pronto, você poderá utilizar meus comandos normalmente.
 
 
-_Continua_
+_Continuação em alguns dias_
